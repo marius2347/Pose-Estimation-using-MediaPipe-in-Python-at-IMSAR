@@ -1,4 +1,4 @@
-<h1> BodyMarks Media Pipeline with Confidence Scores - DL Python Project</h1>
+<h1> BodyMarks Media Pipeline with Confidence Scores - IMSAR PROJECT</h1>
 <br>
 <h2>Features</h2>
 <ul>
