@@ -1,4 +1,4 @@
-<h1> BodyMarks Media Pipeline with Confidence Scores - IMSAR PROJECT</h1>
+<h1> Pose Estimation using MediaPipe in Python at IMSAR</h1>
 <br>
 <h2>Features</h2>
 <ul>
