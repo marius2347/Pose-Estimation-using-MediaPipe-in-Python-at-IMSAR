@@ -7,11 +7,6 @@
     <li>bodymarks_pipeline_with_confidence_DL.ipynb: model training and accuracy of the model and media pipeline</li>
 </ul>
 
-<h2>Acknowledgments</h2>
-
-<b> Python3: http://bit.ly/python3-certifications </b>
-<br>
-<b> Machine Learning: https://bit.ly/machine-learning-certification <b>
 <br>
 
 
